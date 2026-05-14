@@ -25,6 +25,7 @@ python gestione_spese.py
 
 ---
 
+
  ## Traccia del progetto
 
 ### Contesto del Progetto
