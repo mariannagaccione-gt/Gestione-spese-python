@@ -90,6 +90,8 @@ L'applicazione di gestione delle spese domestiche offre una soluzione semplice m
 
 ---
 ```markdown
+```
+
 ## Notebook eseguibile su Google Colab
 
 Puoi provare il progetto direttamente su Google Colab:
