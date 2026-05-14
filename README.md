@@ -1,4 +1,4 @@
-# Gestione Spese Domestiche in Python
+# Gestore delle Spese Domestiche in Python
 
 Progetto Python per registrare spese, generare report mensili e visualizzare le 10 transazioni più alte, sviluppato durante il Master in Data Engineering per consolidare le competenze di programmazione in Python.
 
