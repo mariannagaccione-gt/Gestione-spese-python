@@ -63,7 +63,7 @@ L'applicazione presenta un menu interattivo che offre all'utente tre opzioni pri
 L'utente inserisce la data della transazione (formato GG/MM/AAAA), una breve descrizione e l'importo totale.
 Il dato immesso (es. "18/05/2024 Cena al ristorante 45") viene salvato in un file CSV e l'applicazione ritorna al menu principale.
 
--Generazione del Report Mensile:
+- Generazione del Report Mensile:
 
 L'utente seleziona questa opzione per visualizzare un riepilogo delle spese suddivise per anno e mese.
 Il report viene visualizzato nel seguente formato:
