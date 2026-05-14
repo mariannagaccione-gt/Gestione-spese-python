@@ -21,12 +21,11 @@ Clonare il repository o scaricare il file `gestione_spese.py` e avviare:
 
 ```bash
 python gestione_spese.py
-
+```
 
 ---
 
-
- ## Traccia del progetto
+## Traccia del progetto
 
 ### Contesto del Progetto
 In un'epoca in cui il controllo delle spese personali e familiari è diventato cruciale per una gestione finanziaria sostenibile, un'applicazione semplice ma efficace può rappresentare un importante valore aggiunto per i consumatori. Il progetto di un gestore delle spese domestiche mira a fornire uno strumento utile e immediato per il monitoraggio delle transazioni economiche quotidiane, con un'interfaccia utente chiara e funzionale.
@@ -89,9 +88,8 @@ Il codice Python sarà ampiamente documentato, con commenti chiari che descrivon
 ### Conclusione 
 L'applicazione di gestione delle spese domestiche offre una soluzione semplice ma potente per il monitoraggio finanziario. Fornirà agli utenti gli strumenti per una gestione più consapevole delle spese e delle entrate, favorendo la trasparenza e l'efficienza nella pianificazione del budget personale o familiare.
 
-
-
 ---
+
 ##  Autrice
 Marianna Gaccione — Master in Data Engineering  
 
